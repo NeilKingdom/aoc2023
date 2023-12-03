@@ -1,3 +1,11 @@
+[[bin]]
+name = "part1"
+path = "src/part1/bin/main.rs"
+
+[[bin]]
+name = "part2"
+path = "src/part2/bin/main.rs"
+
 [toolchain]
 channel = "nightly"
 
